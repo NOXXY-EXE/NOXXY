@@ -405,7 +405,8 @@ logo = ("""\033[1;32m
 
 [√] Author      :  PRATIK-EXE
 [√] Facebook    :  Pratik Gurung
-[√] Status      :  free pey accha maal 🪦
+[√] Github      :  NOXXY-EXE
+[√] Status      :  No need of approval 🪦
 
     pratik inxxid'3  🪦
 _________________♲︎____________________     
