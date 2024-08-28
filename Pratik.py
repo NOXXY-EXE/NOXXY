@@ -412,8 +412,8 @@ logo = ("""\033[1;32m
 	 
 ━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─━─
 
-- Unknown Legend'3
-Th'3 Metavers'3 god pratik inxid'3
+ - Unknown Legend'3
+   Th'3 Metavers'3 god pratik enter'3
 
 \033[1;37m""")     
  
